@@ -23,7 +23,7 @@ You can check maven version using "mvn --version"
 
 
 ## to build artifact
-Now clone this repo using "git clone <repo URL>" command.
+Now clone this repo using "git clone repo URL".
 Then cd into project's main directory. Then
 Execute the below commands:  
 1. mvn validate: 
